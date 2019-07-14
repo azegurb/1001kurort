@@ -1,0 +1,151 @@
+[
+  {
+    "path": "/",
+    "label": [
+      "Home",
+      "Главная"
+    ],
+    "titleEN": "Book sanatoriums for 1001kurort\n",
+    "titleRU": "Бронируйте санатории на 1001kurort",
+    "descriptionEN": "1001kurort - free doctor's consultation, the best sanatoriums\n",
+    "descriptionRU": "1001kurort - бесплатная консультация врача, лучшие санатории",
+    "keywords": "daw"
+  },
+  {
+    "path": "/search",
+    "label": [
+      "Search",
+      "Поиск"
+    ],
+    "titleEN": "Search for resorts on 1001kurort\n",
+    "titleRU": "Поиск санаториев на 1001kurort",
+    "descriptionEN": "Find the right sanatorium for 1001kurort\n",
+    "descriptionRU": "Найдите подходящий санаторий на 1001kurort",
+    "keywords": ""
+  },
+  {
+    "path": "/comparing",
+    "label": [
+      "Comparing",
+      "Сравнение"
+    ]
+  },
+  {
+    "path": "/sanatorium",
+    "label": [
+      "Sanatorium page",
+      "Страница санатория"
+    ]
+  },
+  {
+    "path": "/booking",
+    "label": [
+      "Booking",
+      "Бронирование"
+    ]
+  },
+  {
+    "path": "/ask_doctor",
+    "label": [
+      "Ask doctor",
+      "Спросить врача"
+    ]
+  },
+  {
+    "path": "/funny_satellite",
+    "label": [
+      "Funny satellite",
+      "Веселый спутник"
+    ]
+  },
+  {
+    "path": "/blog",
+    "label": [
+      "Blog",
+      "Блог"
+    ],
+    "titleEN": "Blog - 1001kurort\n",
+    "titleRU": "Блог - 1001kurort",
+    "descriptionEN": "1001kurort - free doctor's consultation, the best sanatoriums\n",
+    "descriptionRU": "1001kurort - бесплатная консультация врача, лучшие санатории",
+    "keywords": "daw"
+  },
+  {
+    "path": "/blog/:id",
+    "label": [
+      "Blogger page",
+      "Страница блоггера"
+    ]
+  },
+  {
+    "path": "/blog/:bloggerId/:articleId",
+    "label": [
+      "Blogger post page",
+      "Пост блоггера"
+    ],
+    "titleEN": "{{name}} - Blog of 1001kurort",
+    "titleRU": "{{name}} - Блог 1001kurort",
+    "descriptionEN": "{{description}}",
+    "descriptionRU": "{{description}}",
+    "keywords": ""
+  },
+  {
+    "path": "/turs",
+    "label": [
+      "Turs",
+      "Туры"
+    ],
+    "titleEN": "Turs - 1001kurort",
+    "titleRU": "Туры - 1001kurort",
+    "descriptionEN": "Turs - 1001kurort",
+    "descriptionRU": "Туры - 1001kurort",
+    "keywords": ""
+  },
+  {
+    "path": "/turs/:id",
+    "label": [
+      "Tur page",
+      "Страница Тура"
+    ],
+    "titleEN": "{{name}}, tur  - 1001kurort",
+    "titleRU": "{{name}}, тур - 1001kurort",
+    "descriptionEN": "Tur, {{name}}  - 1001kurort",
+    "descriptionRU": "Tur, {{name}}  - 1001kurort",
+    "keywords": ""
+  },
+  {
+    "path": "/register/",
+    "label": [
+      "Register",
+      "Регистрация"
+    ]
+  },
+  {
+    "path": "/auth/",
+    "label": [
+      "Authorithation",
+      "Авторизация"
+    ]
+  },
+  {
+    "path": "/profile"
+  },
+  {
+    "path": "/account/confirm/:id"
+  },
+  {
+    "path": "/booking/cancel/:id"
+  },
+  {
+    "path": "/terms-and-conditions"
+  },
+  {
+    "path": "/secret/admin/auth"
+  },
+  {
+    "path": "/secret/dashboard"
+  },
+  {
+    "path": "*"
+  }
+]

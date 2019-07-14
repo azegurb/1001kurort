@@ -1,0 +1,42 @@
+{
+  "extends":  "eslint:recommended",
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "sourceType": 'module',
+    "allowImportExportEverywhere": true
+  },
+  "env":  {
+    "es6": true,
+    "browser":  true,
+    "node": true
+  },
+  "comma-dangle": ["error", "never"],
+  "plugins":  [
+    "react"
+  ],
+  "rules":  {
+    "no-debugger":  0,
+    "no-console": 0,
+    "new-cap":  0,
+    "strict": 0,
+    "no-underscore-dangle": 0,
+    "no-use-before-define": 0,
+    "no-unreachable":0,
+    "eol-last": 0,
+    "quotes": [0, "single"],
+    "react/jsx-no-undef": 1,
+    "react/jsx-uses-react": 2,
+    "react/jsx-uses-vars":  2,
+    "react/react-in-jsx-scope": 2,
+    "react/jsx-quotes": 0,
+    "jsx-quotes": 0,
+    "no-extra-semi": 0,
+    "no-unused-vars": 0,
+    "comma-dangle": 0,
+    "react/no-multi-comp":0,
+    "react/prop-types": 0,
+    "no-mixed-spaces-and-tabs": 0,
+    "no-extra-boolean-cast": 0,
+    "no-case-declarations": 0
+  }
+}

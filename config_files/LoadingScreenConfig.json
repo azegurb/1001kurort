@@ -1,0 +1,18 @@
+{
+  "logo": "https://1001kurort.com/images/logo-big.png",
+  "showFrases": true,
+  "frases": [
+    {
+      "en": "TEST-5",
+      "ru": "TEST-5"
+    },
+    {
+      "en": "TEST-7",
+      "ru": "TEST-7"
+    },
+    {
+      "en": "aaa",
+      "ru": "aaaa"
+    }
+  ]
+}
